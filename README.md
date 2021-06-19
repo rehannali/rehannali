@@ -16,6 +16,7 @@
 * iOS
 * Machine Learning
 * Data Science
+* AWS
 
 
 ***Stats:***
