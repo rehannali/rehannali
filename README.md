@@ -12,8 +12,8 @@
 
 ## 💻 Technologies I Love
 
-* Flutter
 * iOS
+* Flutter
 * Machine Learning
 * Data Science
 * AWS
