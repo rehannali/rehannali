@@ -50,18 +50,7 @@
   </tr>
 </table> -->
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    <a href="https://github.com/rehannali">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068">
-    </a>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/rehannali">
-      <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068">
-    </a>
-  </div>
-</div>
+[![left](https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068)](https://github.com/rehannali)[![right](http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)](https://github.com/rehannali)
 
 
 <table style="border: none; border-collapse: collapse; padding: 0; margin: 0;">
