@@ -35,14 +35,14 @@
 
 ***💻 GitHub Profile Stats***
 
-<table border="0" style="border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; padding: 0; margin: 0;">
   <tr>
-    <td style="border: none;">
+    <td style="padding: 10; border: none;">
       <a href="https://github.com/rehannali">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068?">
       </a>
     </td>
-    <td style="border: none;">
+    <td style="padding: 0; border: none;">
       <a href="https://github.com/rehannali">
         <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068?">
       </a>
@@ -50,19 +50,19 @@
   </tr>
 </table>
 
-<table border="0" style="border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; padding: 0; margin: 0;">
   <tr>
-    <td style="border: none;">
+    <td style="padding: 0; border: none;">
       <a href="https://github.com/rehannali">
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehannali&theme=radical&layout=compact&title_color=ff3068?">
   </a>
     </td>
-    <td style="border: none;">
+    <td style="padding: 10; border: none;">
       <a href="https://github.com/rehannali">
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rehannali&theme=radical&layout=compact&title_color=ff3068?">
   </a>
     </td>
-    <td style="border: none;">
+    <td style="padding: 0; border: none;">
       <a href="https://github.com/rehannali">
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehannali&show_icons=true&locale=en&layout=donut&theme=radical">
   </a>
