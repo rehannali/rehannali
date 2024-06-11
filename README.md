@@ -50,7 +50,7 @@
   </tr>
 </table> -->
 
-[![left](https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068)](https://github.com/rehannali)&nbsp;[![right](http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)](https://github.com/rehannali)
+[![left](https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068)](https://github.com/rehannali)&nbsp;&nbsp;[![right](http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)](https://github.com/rehannali)
 
 
 <table style="border: none; border-collapse: collapse; padding: 0; margin: 0;">
