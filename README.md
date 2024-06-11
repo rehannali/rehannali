@@ -35,29 +35,10 @@
 
 ***💻 GitHub Profile Stats***
 
-<div style="display: flex; gap: 20px;">
-  <a href="https://github.com/rehannali">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068?">
-  </a>
-  
-  <a href="https://github.com/rehannali">
-    <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068?">
-  </a>
-</div>
+![first](https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068?)&nbsp;![second](http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068?)
 
-<div style="display: flex; gap: 20px;">
-  <a href="https://github.com/rehannali">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehannali&theme=radical&layout=compact&title_color=ff3068?">
-  </a>
-  
-  <a href="https://github.com/rehannali">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rehannali&theme=radical&layout=compact&title_color=ff3068?">
-  </a>
 
-  <a href="https://github.com/rehannali">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehannali&show_icons=true&locale=en&layout=donut&theme=radical">
-  </a>
-</div>
+![lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehannali&theme=radical&layout=compact&title_color=ff3068?)&nbsp;![commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rehannali&theme=radical&layout=compact&title_color=ff3068?)&nbsp;![used](https://github-readme-stats.vercel.app/api/top-langs?username=rehannali&show_icons=true&locale=en&layout=donut&theme=radical)&nbsp;
 
 <p>
 <strong style="color:red">Note:</strong> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -84,7 +65,7 @@
 <a href="https://stackoverflow.com/users/8038563/rehan-ali"><img alt="Rehan's Activity Graph" src="https://github-readme-stackoverflow.vercel.app/?userID=8038563&theme=dark" /></a>
 
 
-#### 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;![ObjectiveC](https://img.shields.io/badge/-Objective--C-05122A?style=flat&logo=c)&nbsp;![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi&logoColor=092E20)&nbsp;![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=092E20)&nbsp;![SVN](https://img.shields.io/badge/-SVN-05122A?style=flat&logo=subversion)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;![Bitbucket](https://img.shields.io/badge/-bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;![NumPy](https://img.shields.io/badge/-numpy-05122A.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;![TensorFlow](https://img.shields.io/badge/-Tensor%20Flow-05122A.svg?&style=flat&logo=tensorflow&logoColor=white)&nbsp;![Keras](https://img.shields.io/badge/-Keras-05122A.svg?&style=flat&logo=keras&logoColor=white)&nbsp;![Pytorch](https://img.shields.io/badge/-Pytorch-05122A.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;![Pandas](https://img.shields.io/badge/-pandas-05122A.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter)&nbsp;![IntellijUltimate](https://img.shields.io/badge/-Intellij%20Ultimate-05122A?style=flat&logo=intellij-idea)&nbsp;![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;![Travis-CI Badge](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis-CI&logoColor=white)&nbsp;![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-05122A?style=flat&logo=Github-Actions&logoColor=white)&nbsp;![CircleCI](https://img.shields.io/badge/-Circle%20CI-05122A?style=flat&logo=CircleCI&logoColor=white)&nbsp;![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=white)&nbsp;![Fastlane](https://img.shields.io/badge/-Fastlane-05122A?style=flat&logo=fastlane&logoColor=white)
 
