@@ -50,10 +50,7 @@
   </tr>
 </table> -->
 
-[![left](https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068)](https://github.com/rehannali)&nbsp;&nbsp;[![right](http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)](https://github.com/rehannali)
-
-
-<table style="border: none; border-collapse: collapse; padding: 0; margin: 0;">
+<!-- <table style="border: none; border-collapse: collapse; padding: 0; margin: 0;">
   <tr>
     <td style="padding: 0; border: none;">
       <a href="https://github.com/rehannali">
@@ -71,7 +68,12 @@
   </a>
     </td>
   </tr>
-</table>
+</table> -->
+
+[![left](https://github-readme-stats.vercel.app/api?username=rehannali&theme=radical&title_color=ff3068)](https://github.com/rehannali)&nbsp;&nbsp;[![right](http://github-readme-streak-stats.herokuapp.com/?user=rehannali&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)](https://github.com/rehannali)
+
+[![left](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rehannali&theme=radical&layout=compact&title_color=ff3068?)](https://github.com/rehannali)&nbsp;&nbsp;[![middle](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rehannali&theme=radical&layout=compact&title_color=ff3068?)](https://github.com/rehannali)&nbsp;&nbsp;[![right](https://github-readme-stats.vercel.app/api/top-langs?username=rehannali&show_icons=true&locale=en&layout=donut&theme=radical)](https://github.com/rehannali)
+
 
 <p>
 <strong style="color:red">Note:</strong> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
