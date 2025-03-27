@@ -2,11 +2,11 @@
 
 > A Software Engineer who loves to convert thoughts into code.
 
-* 📲 Wanna talk about new App, Contact me [here](https://rehannali.com/contactme).
-* 💬 Talk about anything [here](https://rehannali.com/contactme).
+* 📲 Wanna talk about new App, Contact me [here](https://rehanali.dev/contactme).
+* 💬 Talk about anything [here](https://rehanali.dev/contactme).
 * 📚 open-source contributor.
 * 🍔 Currently developing TasteBuds.
-* 🎯 Portfolio site: [Portfolio](https://rehannali.com/portfolio).
+* 🎯 Portfolio site: [Portfolio](https://rehanali.dev/portfolio).
 * 📱 Love to build things Specially in iOS and Flutter.
 * ❤️ Love to explore new places.
 
@@ -103,7 +103,7 @@
 
 ### Reach me via 👇🏻
 
-<a href="https://rehannali.com/contactme"><img src="https://i.ibb.co/v10DgBV/contactme-logo-bw-1200.png" height=100></a>
+<a href="https://rehanali.dev/contactme"><img src="https://i.ibb.co/v10DgBV/contactme-logo-bw-1200.png" height=100></a>
 
 
 <!-- [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/rehannali -->
