@@ -1,6 +1,6 @@
 # Hi there 👋🏻, I'm Rehan Ali,
 
-> A Software Engineer who loves to convert thoughts into code.
+> I help startups and businesses turn ideas into sleek, functional, scalable mobile apps using Swift, Flutter and modern backend tech.
 
 * 📲 Wanna talk about new App, Contact me [here](https://rehanali.dev/contactme).
 * 💬 Talk about anything [here](https://rehanali.dev/contactme).
