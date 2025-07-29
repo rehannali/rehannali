@@ -37,7 +37,6 @@ I design and develop **sleek**, **scalable**, and **high-performing** mobile app
 
 [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)]()&nbsp;[![Asus](https://img.shields.io/badge/Asus-ROG_Strix_G16-999999?style=for-the-badge&logo=asus&logoColor=white)]()&nbsp;[![STACKOVERFLOW](https://img.shields.io/stackexchange/stackoverflow/r/8038563?style=for-the-badge)](https://stackoverflow.com/users/8038563/rehan)
 -->
----
 
 ### 🛠 Tech Stack & Tools
 
@@ -166,8 +165,6 @@ I design and develop **sleek**, **scalable**, and **high-performing** mobile app
 <p align="center">
 <a href="https://stackoverflow.com/users/8038563/rehan"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8038563?style=for-the-badge"></a>
 </p>
-
----
 
 <!--
 ### Reach me via 👇🏻
