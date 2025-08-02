@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<a href="https://rehanali.dev/contactme"><img src="https://img.shields.io/badge/💬%20Let's%20Talk-%20Click%20Here-orange?style=for-the-badge"></a>
+<a href="https://rehanali.dev/contact-me"><img src="https://img.shields.io/badge/💬%20Let's%20Talk-%20Click%20Here-orange?style=for-the-badge"></a>
 <a href="https://rehanali.dev/projects"><img src="https://img.shields.io/badge/🚀%20View%20Portfolio-%20RehanAli.dev-blue?style=for-the-badge"></a>
 </p>
 
@@ -27,8 +27,8 @@ I design and develop **sleek**, **scalable**, and **high-performing** mobile app
 
 > I help startups and businesses turn ideas into sleek, functional, scalable mobile apps using Swift, Flutter and modern backend tech.
 
-* 📲 Wanna talk about new App, Contact me [here](https://rehanali.dev/contactme).
-* 💬 Talk about anything [here](https://rehanali.dev/contactme).
+* 📲 Wanna talk about new App, Contact me [here](https://rehanali.dev/contact-me).
+* 💬 Talk about anything [here](https://rehanali.dev/contact-me).
 * 📚 open-source contributor.
 * 🍔 Currently developing TasteBuds.
 * 🎯 Portfolio site: [Portfolio](https://rehanali.dev/projects).
@@ -160,7 +160,7 @@ I design and develop **sleek**, **scalable**, and **high-performing** mobile app
 
 💡 Got a project or startup idea? I’d love to hear about it.  
 🛠️ Need help building or scaling your mobile app? Let’s chat.  
-📩 [**Get in touch here →**](https://rehanali.dev/contactme)
+📩 [**Get in touch here →**](https://rehanali.dev/contact-me)
 
 <p align="center">
 <a href="https://stackoverflow.com/users/8038563/rehan"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8038563?style=for-the-badge"></a>
@@ -169,7 +169,7 @@ I design and develop **sleek**, **scalable**, and **high-performing** mobile app
 <!--
 ### Reach me via 👇🏻
 
-<a href="https://rehanali.dev/contactme"><img src="https://i.ibb.co/v10DgBV/contactme-logo-bw-1200.png" height=100></a> -->
+<a href="https://rehanali.dev/contact-me"><img src="https://i.ibb.co/v10DgBV/contactme-logo-bw-1200.png" height=100></a> -->
 
 
 <!-- [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/rehannali -->
