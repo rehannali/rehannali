@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://rehanali.dev/contactme"><img src="https://img.shields.io/badge/💬%20Let's%20Talk-%20Click%20Here-orange?style=for-the-badge"></a>
-<a href="https://rehanali.dev/portfolio"><img src="https://img.shields.io/badge/🚀%20View%20Portfolio-%20RehanAli.dev-blue?style=for-the-badge"></a>
+<a href="https://rehanali.dev/projects"><img src="https://img.shields.io/badge/🚀%20View%20Portfolio-%20RehanAli.dev-blue?style=for-the-badge"></a>
 </p>
 
 ---
@@ -31,7 +31,7 @@ I design and develop **sleek**, **scalable**, and **high-performing** mobile app
 * 💬 Talk about anything [here](https://rehanali.dev/contactme).
 * 📚 open-source contributor.
 * 🍔 Currently developing TasteBuds.
-* 🎯 Portfolio site: [Portfolio](https://rehanali.dev/portfolio).
+* 🎯 Portfolio site: [Portfolio](https://rehanali.dev/projects).
 * 📱 Love to build things Specially in iOS and Flutter.
 * ❤️ Love to explore new places.
 
