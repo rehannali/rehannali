@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-<a href="https://rehanali.dev/contact-me"><img src="https://img.shields.io/badge/💬%20Let's%20Talk-%20Click%20Here-orange?style=for-the-badge"></a>
-<a href="https://rehanali.dev/projects"><img src="https://img.shields.io/badge/🚀%20View%20Portfolio-%20RehanAli.dev-blue?style=for-the-badge"></a>
+<a href="https://rehan.one/contact"><img src="https://img.shields.io/badge/💬%20Let's%20Talk-%20Click%20Here-orange?style=for-the-badge"></a>
+<a href="https://rehan.one/projects"><img src="https://img.shields.io/badge/🚀%20View%20Portfolio-%20Rehan.one-blue?style=for-the-badge"></a>
 </p>
 
 ---
@@ -160,7 +160,7 @@ I design and develop **sleek**, **scalable**, and **high-performing** mobile app
 
 💡 Got a project or startup idea? I’d love to hear about it.  
 🛠️ Need help building or scaling your mobile app? Let’s chat.  
-📩 [**Get in touch here →**](https://rehanali.dev/contact-me)
+📩 [**Get in touch here →**](https://rehan.one/contact)
 
 <p align="center">
 <a href="https://stackoverflow.com/users/8038563/rehan"><img src="https://img.shields.io/stackexchange/stackoverflow/r/8038563?style=for-the-badge"></a>
