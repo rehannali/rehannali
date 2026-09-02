@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏻, I'm Rehan Ali</h1>
 <p align="center">
-🚀 Mobile App Developer | 📱 iOS (Swift) & Flutter | 🧠 Backend Tech Enthusiast
+🚀 Mobile App Developer | 📱 iOS (Swift), Flutter & Kotlin (KMM & KMP) | 🧠 Backend Tech Enthusiast
 </p>
 
 <p align="center">
