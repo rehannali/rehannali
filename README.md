@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🏻, I'm Rehan Ali</h1>
 <p align="center">
-🚀 Mobile App Developer | 📱 iOS (Swift), Flutter & Kotlin (KMM & KMP) | 🧠 Backend Tech Enthusiast
+🚀 Mobile App Developer | 📱 iOS (Swift), Flutter & Kotlin Multiplatfrom | 🧠 Backend Tech Enthusiast
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ### 💼 About Me
 
 > I help **startups and businesses** bring mobile app ideas to life — from zero to App Store.  
-I design and develop **sleek**, **scalable**, and **high-performing** mobile apps using **Swift**, **Flutter**, **Kotlin (KMM & KMP)** and **modern backend tools**.
+I design and develop **sleek**, **scalable**, and **high-performing** mobile apps using **Swift**, **Flutter**, **Kotlin Multiplatform** and **modern backend tools**.
 
 - 📱 I specialize in building polished mobile apps with Swift, Flutter & KMP
 - 📚 Open-source contributor and community-driven developer
